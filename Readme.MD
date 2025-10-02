@@ -5,4 +5,4 @@ Setiap anggota kelompok diminta untuk melakukan
 perubahan pada file `data.txt`.
 ## Anggota Kelompok
 - Roni Muhamad Rohman  
-- Asep Sulaeman
+- Nama anggota 2
